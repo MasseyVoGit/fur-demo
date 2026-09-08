@@ -17,3 +17,7 @@ Sound is part of the illusion, so keep the volume on: slow gentle strokes give a
 ## About
 
 Research prototype by Massey Vo for a master's application on adaptive pseudo-haptics for affective touch. The study protocol measures how strongly people perceive a change in stroking resistance produced purely by visual and audio cues, and how it shifts pleasantness and calm.
+
+## Figures
+
+The `figures/` folder holds stills and a short GIF from the demo for the research proposal: a with-grain stroke, an against-grain stroke, the study rating screen, the input-versus-displayed overlay, and two side-profile views of the hand in the fur.
