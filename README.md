@@ -14,6 +14,13 @@ A browser demo of pseudo-haptic fur. You stroke a virtual fur patch with the mou
 
 Sound is part of the illusion, so keep the volume on: slow gentle strokes give a soft warm brush, faster strokes a lighter, airier one.
 
+## URL parameters
+
+- `?coat=cat` or `?coat=dog` selects the coat on load (cat is the study stimulus).
+- `?dev=1` starts in developer mode (tether, figure overlay, figure camera, screenshot key).
+
+The bottom-left caption shows the build stamp (short source hash and UTC build date), which also appears in `BUILD_STAMP.txt` in this repository, so any screenshot identifies the build it came from.
+
 ## About
 
 Research prototype by Massey Vo for a master's application on adaptive pseudo-haptics for affective touch. The study protocol measures how strongly people perceive a change in stroking resistance produced purely by visual and audio cues, and how it shifts pleasantness and calm.
