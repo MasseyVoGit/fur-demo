@@ -18,7 +18,6 @@ Sound is part of the illusion, so keep the volume on: slow gentle strokes give a
 
 - `?coat=cat` or `?coat=dog` selects the coat on load (cat is the study stimulus).
 - `?dev=1` starts in developer mode (tether, figure overlay, figure camera, screenshot key).
-- `?strands=1` enables an experimental strand layer around the hand (off by default).
 
 The bottom-left caption shows the build stamp (short source hash and UTC build date), which also appears in `BUILD_STAMP.txt` in this repository, so any screenshot identifies the build it came from.
 
