@@ -27,4 +27,8 @@ Research prototype by Massey Vo for a master's application on adaptive pseudo-ha
 
 ## Figures
 
-The `figures/` folder holds stills and a short GIF from the demo for the research proposal: a with-grain stroke, an against-grain stroke, the study rating screen, the input-versus-displayed overlay, and two side-profile views of the hand in the fur.
+The `figures/` folder holds stills and a short GIF from the demo for the research proposal: a with-grain stroke, an against-grain stroke, the study rating screen, the input-versus-displayed overlay, and two side-profile views of the hand in the fur. fig3/fig4/fig8/fig9 come from the desktop (strand-hair) build; `web_fig3.png` is the same with-grain stroke in this web build.
+
+## Credits
+
+The hand is "Low Poly Hand" by ronildo.facanha (https://sketchfab.com/3d-models/low-poly-hand-3d-model-19c9ac5c369a468a95f081a3cc2ad4ac), licensed CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/), used here scaled and re-oriented. Fur on the desktop build uses Unity's Hair package (com.unity.demoteam.hair); the web build uses shell-and-slice fur.
